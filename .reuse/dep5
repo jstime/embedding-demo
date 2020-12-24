@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: jstime-embed-demo
+Upstream-Contact: Myles Borins <myles.borins@gmail.com>
+Source: https://github.com/mylesborins/jstime-embed-demo
+
+Files: *
+Copyright: Myles Borins
+License: Apache-2.0
