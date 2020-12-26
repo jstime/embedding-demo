@@ -1,4 +1,4 @@
-# jstime embed demo
+# jstime embedding demo
 
 This is how you embed jstime!
 
